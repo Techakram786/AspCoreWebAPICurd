@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace AspCoreWebAPICurd.Controllers
 {
-    //[Route("api/[controller]")]
+    //[Route("api/[controller]")]////
     [ApiController]
     public class StudentController : ControllerBase
     {
